@@ -18,14 +18,7 @@ It provides fast, accurate transcription in a non-intrusive floating window, tri
 - Works on Linux, Windows, and MacOS
 - Easy to configure and extend
 
----
 
-## Preview
-
-> ![Murmur UI Preview](docs/screenshot.gif)  
-> _Minimal floating overlay for speech-to-text_
-
----
 
 ## Installation
 
